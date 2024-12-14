@@ -1,0 +1,61 @@
+﻿@{
+    DataBase db = new DataBase();
+    ViewBag.CategoryID = new SelectList(db.Categories.OrderBy(c => c.CategoryName), "CategoryID", "CategoryName");
+    ViewBag.SupplierID = new SelectList(db.Suppliers.OrderBy(s => s.CompanyName), "SupplierID", "CompanyName");
+}
+
+@using (Html.BeginForm("Index", "Products", FormMethod.Get, new { @class = "row g-3" }))
+{
+    <!-- Tìm kiếm -->
+    <div class="col-md-4">
+        <label for="searchTerm" class="form-label">Tìm kiếm:</label>
+        @Html.TextBox("searchString", ViewBag.SearchTerm as string,
+                       new { @class = "form-control", placeholder = "Nhập tên sản phẩm" })
+    </div>
+
+    <!-- Loại sản phẩm -->
+    <div class="col-md-4">
+        <label for="categoryId" class="form-label">Loại sản phẩm:</label>
+        @Html.DropDownList("categoryId", ViewBag.CategoryID as SelectList,
+                           "Chọn loại sản phẩm", new { @class = "form-select" })
+    </div>
+
+    <!-- Nhà cung cấp -->
+    <div class="col-md-4">
+        <label for="supplierId" class="form-label">Nhà cung cấp:</label>
+        @Html.DropDownList("supplierId", ViewBag.SupplierID as SelectList,
+                           "Chọn nhà cung cấp", new { @class = "form-select" })
+    </div>
+
+    <!-- Khoảng giá -->
+    <div class="row mt-2">
+        <div class="col-md-3">
+            <label for="minPrice" class="form-label">Giá từ:</label>
+            <input type="number" name="minPrice" min="0" class="form-control" placeholder="VNĐ" />
+        </div>
+
+        <div class="col-md-3">
+            <label for="maxPrice" class="form-label">Đến:</label>
+            <input type="number" name="maxPrice" class="form-control" min="0" placeholder="VNĐ" />
+        </div>
+    </div>
+
+    <!-- Số lượng đã đặt hàng -->
+    <div class="row mt-2">
+        <div class="col-md-3">
+            <label for="minSl" class="form-label">Số lượng đã đặt hàng từ:</label>
+            <input type="number" name="minSl" min="0" class="form-control"  placeholder="Số lượng nhỏ nhất là 0"/>
+        </div>
+
+        <div class="col-md-3">
+            <label for="maxSl" class="form-label">Đến:</label>
+            <input type="number" name="maxSl" min="0" class="form-control" placeholder="Số lượng nhỏ nhất lớn hơn 0"/>
+        </div>
+    </div>
+
+    <!-- Nút hành động -->
+    <div class="col-12 text-end mt-3">
+        <a class="btn btn-warning" href="/Products/Index">Xóa bộ lọc</a>
+        <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+    </div>
+}

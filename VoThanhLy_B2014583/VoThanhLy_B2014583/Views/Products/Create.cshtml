@@ -1,0 +1,109 @@
+﻿@model VoThanhLy_B2014583.Product
+
+@{
+    ViewBag.Title = "Tạo sản phẩm mới";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="mb-0">Tạo sản phẩm mới</h2>
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="row g-3">
+                            <div class="col-12">
+                                <div class="form-floating mb-3">
+                                    @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control", placeholder = "Tên sản phẩm" } })
+                                    <label for="ProductName">Tên sản phẩm</label>
+                                    @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-floating mb-3">
+                                    @Html.DropDownList("SupplierID", null, "Chọn nhà cung cấp", new { @class = "form-select" })
+                                    <label>Nhà cung cấp</label>
+                                    @Html.ValidationMessageFor(model => model.SupplierID, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-floating mb-3">
+                                    @Html.DropDownList("CategoryID", null, "Chọn danh mục", new { @class = "form-select" })
+                                    <label>Danh mục</label>
+                                    @Html.ValidationMessageFor(model => model.CategoryID, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    @Html.EditorFor(model => model.QuantityPerUnit, new { htmlAttributes = new { @class = "form-control", placeholder = "Số lượng mỗi đơn vị" } })
+                                    <label for="QuantityPerUnit">Số lượng mỗi đơn vị</label>
+                                    @Html.ValidationMessageFor(model => model.QuantityPerUnit, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    @Html.EditorFor(model => model.UnitPrice, new { htmlAttributes = new { @class = "form-control", placeholder = "Giá đơn vị" } })
+                                    <label for="UnitPrice">Giá đơn vị</label>
+                                    @Html.ValidationMessageFor(model => model.UnitPrice, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <div class="form-floating mb-3">
+                                    @Html.EditorFor(model => model.UnitsInStock, new { htmlAttributes = new { @class = "form-control", placeholder = "Tồn kho" } })
+                                    <label for="UnitsInStock">Tồn kho</label>
+                                    @Html.ValidationMessageFor(model => model.UnitsInStock, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <div class="form-floating mb-3">
+                                    @Html.EditorFor(model => model.UnitsOnOrder, new { htmlAttributes = new { @class = "form-control", placeholder = "Đang đặt hàng" } })
+                                    <label for="UnitsOnOrder">Đang đặt hàng</label>
+                                    @Html.ValidationMessageFor(model => model.UnitsOnOrder, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <div class="form-floating mb-3">
+                                    @Html.EditorFor(model => model.ReorderLevel, new { htmlAttributes = new { @class = "form-control", placeholder = "Mức đặt lại" } })
+                                    <label for="ReorderLevel">Mức đặt lại</label>
+                                    @Html.ValidationMessageFor(model => model.ReorderLevel, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-check mb-3">
+                                    @Html.EditorFor(model => model.Discontinued, new { htmlAttributes = new { @class = "form-check-input" } })
+                                    <label for="Discontinued" class="form-check-label">Ngừng kinh doanh</label>
+                                    @Html.ValidationMessageFor(model => model.Discontinued, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                    <input type="submit" value="Tạo mới" class="btn btn-primary me-md-2" />
+                                    @Html.ActionLink("Quay lại", "Index", null, new { @class = "btn btn-secondary" })
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

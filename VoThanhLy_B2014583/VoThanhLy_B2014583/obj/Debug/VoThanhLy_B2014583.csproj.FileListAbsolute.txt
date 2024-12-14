@@ -1,0 +1,206 @@
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\VoThanhLy_B2014583.dll.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\VoThanhLy_B2014583.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\VoThanhLy_B2014583.pdb
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csc.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csc.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csc.rsp
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csi.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csi.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csi.rsp
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.AppContext.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Console.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.Compression.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Net.Http.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Net.Sockets.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.ValueTuple.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.XPath.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\vbc.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\vbc.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\vbc.rsp
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Antlr3.Runtime.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.SqlServer.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Newtonsoft.Json.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Helpers.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Mvc.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Optimization.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Razor.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\WebGrease.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.SqlServer.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Helpers.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Mvc.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Optimization.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Razor.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Newtonsoft.Json.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Antlr3.Runtime.pdb
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.csproj.AssemblyReference.cache
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.csproj.CoreCompileInputs.cache
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhL.89EEA139.Up2Date
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.pdb
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.Extensions.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Buffers.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.IO.Pipelines.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Memory.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Numerics.Vectors.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Threading.Tasks.Extensions.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.Extensions.Primitives.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Buffers.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.IO.Pipelines.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Memory.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Numerics.Vectors.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Threading.Tasks.Extensions.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.Mvc.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.Mvc.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\VoThanhLy_B2014583.dll.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\VoThanhLy_B2014583.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\VoThanhLy_B2014583.pdb
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Antlr3.Runtime.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.SqlServer.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.Extensions.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Newtonsoft.Json.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.Mvc.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Buffers.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.IO.Pipelines.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Memory.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Numerics.Vectors.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Threading.Tasks.Extensions.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Helpers.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Mvc.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Optimization.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Razor.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\WebGrease.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\EntityFramework.SqlServer.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.Extensions.Primitives.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\PagedList.Mvc.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Buffers.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.IO.Pipelines.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Memory.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Numerics.Vectors.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Threading.Tasks.Extensions.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Helpers.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Mvc.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Optimization.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.Razor.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Newtonsoft.Json.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Antlr3.Runtime.pdb
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.csproj.AssemblyReference.cache
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.csproj.CoreCompileInputs.cache
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhL.89EEA139.Up2Date
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\obj\Debug\VoThanhLy_B2014583.pdb
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csc.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csc.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csc.rsp
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csi.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csi.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\csi.rsp
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.AppContext.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Console.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.Compression.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Net.Http.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Net.Sockets.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.ValueTuple.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.XPath.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\vbc.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\vbc.exe.config
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\vbc.rsp
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\NetC-\DoAnMonHoc\VoThanhLy_B2014583 2\VoThanhLy_B2014583\VoThanhLy_B2014583\bin\roslyn\VBCSCompiler.exe.config

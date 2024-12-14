@@ -1,0 +1,109 @@
+﻿@model VoThanhLy_B2014583.Product
+
+@{
+    ViewBag.Title = "Chỉnh sửa sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Chỉnh sửa sản phẩm</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <!-- Hiển thị lỗi -->
+        <div class="mb-3">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        </div>
+
+        <!-- Form chỉnh sửa -->
+        <div class="row">
+            @Html.HiddenFor(model => model.ProductID)
+
+            <div class="col-md-6 mb-3">
+                <label for="ProductName" class="form-label fw-bold">
+                    Tên sản phẩm
+                </label>
+                @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control", id = "ProductName" } })
+                @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="SupplierID" class="form-label fw-bold">
+                    Nhà cung cấp
+                </label>
+                @Html.DropDownList("SupplierID", null, new { @class = "form-select", id = "SupplierID" })
+                @Html.ValidationMessageFor(model => model.SupplierID, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="CategoryID" class="form-label fw-bold">
+                    Danh mục
+                </label>
+                @Html.DropDownList("CategoryID", null, new { @class = "form-select", id = "CategoryID" })
+                @Html.ValidationMessageFor(model => model.CategoryID, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="QuantityPerUnit" class="form-label fw-bold">
+                    Số lượng mỗi đơn vị
+                </label>
+                @Html.EditorFor(model => model.QuantityPerUnit, new { htmlAttributes = new { @class = "form-control", id = "QuantityPerUnit" } })
+                @Html.ValidationMessageFor(model => model.QuantityPerUnit, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="UnitPrice" class="form-label fw-bold">
+                    Giá đơn vị
+                </label>
+                @Html.EditorFor(model => model.UnitPrice, new { htmlAttributes = new { @class = "form-control", id = "UnitPrice" } })
+                @Html.ValidationMessageFor(model => model.UnitPrice, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="UnitsInStock" class="form-label fw-bold">
+                    Tồn kho
+                </label>
+                @Html.EditorFor(model => model.UnitsInStock, new { htmlAttributes = new { @class = "form-control", id = "UnitsInStock" } })
+                @Html.ValidationMessageFor(model => model.UnitsInStock, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="UnitsOnOrder" class="form-label fw-bold">
+                    Đang đặt hàng
+                </label>
+                @Html.EditorFor(model => model.UnitsOnOrder, new { htmlAttributes = new { @class = "form-control", id = "UnitsOnOrder" } })
+                @Html.ValidationMessageFor(model => model.UnitsOnOrder, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label for="ReorderLevel" class="form-label fw-bold">
+                    Mức đặt lại
+                </label>
+                @Html.EditorFor(model => model.ReorderLevel, new { htmlAttributes = new { @class = "form-control", id = "ReorderLevel" } })
+                @Html.ValidationMessageFor(model => model.ReorderLevel, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-check">
+                    @Html.EditorFor(model => model.Discontinued, new { htmlAttributes = new { @class = "form-check-input", id = "Discontinued" } })
+                    <label for="Discontinued" class="form-check-label">
+                        Ngừng bán
+                    </label>
+                </div>
+                @Html.ValidationMessageFor(model => model.Discontinued, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!-- Nút hành động -->
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary">Lưu</button>
+            @Html.ActionLink("Quay lại danh sách", "Index", null, new { @class = "btn btn-secondary ms-2" })
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

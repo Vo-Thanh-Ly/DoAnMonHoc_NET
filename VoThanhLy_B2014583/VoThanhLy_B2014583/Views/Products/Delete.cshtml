@@ -1,0 +1,71 @@
+﻿@model VoThanhLy_B2014583.Product
+
+@{
+    ViewBag.Title = "Xóa sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Xóa sản phẩm</h2>
+
+    <h5 class="text-danger text-center">Bạn có chắc chắn muốn xóa sản phẩm này?</h5>
+
+    <!-- Thông tin sản phẩm -->
+    <div class="card shadow mt-4">
+        <div class="card-header bg-danger text-white">
+            <strong>Thông tin sản phẩm</strong>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-4">Tên sản phẩm</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ProductName)</dd>
+
+                <dt class="col-sm-4">Số lượng mỗi đơn vị</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.QuantityPerUnit)</dd>
+
+                <dt class="col-sm-4">Giá đơn vị</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.UnitPrice)</dd>
+
+                <dt class="col-sm-4">Tồn kho</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.UnitsInStock)</dd>
+
+                <dt class="col-sm-4">Số lượng đặt hàng</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.UnitsOnOrder)</dd>
+
+                <dt class="col-sm-4">Mức đặt hàng lại</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ReorderLevel)</dd>
+
+                <dt class="col-sm-4">Trạng thái kinh doanh</dt>
+                <dd class="col-sm-8">
+                    @if (Model.Discontinued)
+                    {
+                        <span class="badge bg-danger">Ngừng bán</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Đang bán</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-4">Danh mục</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Category.CategoryName)</dd>
+
+                <dt class="col-sm-4">Nhà cung cấp</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Supplier.CompanyName)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <!-- Nút hành động -->
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="d-flex justify-content-center gap-3 mt-4">
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Xóa
+            </button>
+            @Html.ActionLink("Quay lại danh sách", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    }
+</div>
